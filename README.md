@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-    O readme normalmente é a primeria documentação que o usuário ira ver em seu projeto, então é muito imporante que o todo seja uma boa explicação sobre o projeto.
+    O readme normalmente é a primeria documentação que o usuário ira ver em seu projeto, então é muito imporante que o todo seja uma boa explicação sobre o projeto!
 </p>
 
 ## Tabela de conteúdos
