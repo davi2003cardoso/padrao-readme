@@ -87,6 +87,9 @@ git status
 # Aplicar alterações
 git add .
 
+# Commit
+git commit -m "descrição"
+
 # enviar para o repositório online
 git push origin "nome da branch"
 
