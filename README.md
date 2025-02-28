@@ -56,6 +56,9 @@
 ## Executar o Projeto
 
 ```bash
+
+=====================================
+
 # Vá até o clone do repositório
 cd "caminho do repositório"
 
@@ -92,6 +95,8 @@ git commit -m "descrição"
 
 # enviar para o repositório online
 git push origin "nome da branch"
+
+=====================================
 
 ```
 
